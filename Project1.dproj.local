@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/12/03 00:33:50.000.065,=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2015/12/03 00:35:12.000.837,C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/03 00:35:12.000.837,C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2015/12/03 00:35:17.000.218,C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/12/04 15:10:32.000.344,=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2015/12/04 15:10:42.000.622,=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2015/12/04 15:53:48.000.986,C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Money2\Unit2.dfm</Transaction>
+    <Transaction>2015/12/04 15:53:48.000.986,C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Money2\Unit2.pas</Transaction>
+    <Transaction>2015/12/04 15:53:57.000.482,C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Dexter\Documents\Embarcadero\Studio\Projects\Money2\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
